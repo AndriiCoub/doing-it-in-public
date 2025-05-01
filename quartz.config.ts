@@ -92,6 +92,11 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages(),
     ],
   },
+} 
+repo: {
+  url: "https://github.com/AndriiCoub/quartz,
+  branch: "main"  // або інша гілка, яка точно існує
 }
 
 export default config
+
